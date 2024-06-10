@@ -312,9 +312,6 @@
 
    - ![table info](./instructions/info.png)
      
- <p align="center">
-   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
-</p>
 
 
    - **Edit The Offer Info or Type**
@@ -348,3 +345,8 @@
 # <p align="center">Contributors
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=ShreyamMaity/student-offers) 
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</p>
+
